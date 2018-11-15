@@ -1,0 +1,9 @@
+{
+    "id": "com.app.nativeqml2",
+    "version": "0.1.0",
+    "vendor": "My Company",
+    "type": "native",
+    "main": "com.app.nativeqml2",
+    "title": "Qt native qml2",
+    "icon": "icon.png"
+}

@@ -1,0 +1,9 @@
+{
+    "id": "com.app.nativeqmlnoname",
+    "version": "0.1.0",
+    "vendor": "My Company",
+    "type": "native",
+    "main": "com.app.nativenoname",
+    "title": "Qt native qml_noname",
+    "icon": "icon.png"
+}
